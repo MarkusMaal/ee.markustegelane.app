@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MarkusTegelane</string>
+    <string name="action_settings">Seaded</string>
+    <string name="first_fragment_label">Esimene fragment</string>
+    <string name="second_fragment_label">Teine fragment</string>
+    <string name="next">Järgmine</string>
+    <string name="previous">Eelmine</string>
+    <string name="markustegelanecomm">Kogukond</string>
+    <string name="channel_db">Kanali andmebaas</string>
+    <string name="wallpapers">Taustapildid</string>
+</resources>
